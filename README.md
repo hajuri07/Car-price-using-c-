@@ -1,6 +1,6 @@
 # 🚗 Car Price Predictor
 **Machine Learning Project using C++ and OOP**
-<img src="demo.gif" width="200"/>
+
 
 
 
