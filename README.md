@@ -1,6 +1,6 @@
 # 🚗 Car Price Predictor
 **Machine Learning Project using C++ and OOP**
-<img src="demo.gif" width="600"/>
+<img src="demo.gif" width="200"/>
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square) ![Concepts](https://img.shields.io/badge/OOP%20%7C%20Linear%20Regression%20%7C%20Gradient%20Descent-green?style=flat-square)
 
